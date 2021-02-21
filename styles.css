@@ -1,0 +1,149 @@
+body{
+  background-color: white;
+
+  display: block; margin: 0px;
+}
+h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 650%; margin: 0px 0px 20px 0px;
+}
+h2 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 150%;
+  margin-top: -10px;
+}
+/*Hey folks and headphone image*/
+.main {
+  display: block;
+  background-color: #FFB4B4;
+  overflow: auto;
+}
+.sub-main {
+  margin: 150px 0px 0px 10%;
+  display: inline-block;
+}
+.main-img {
+  float: right;
+  width: 40%;
+  margin-right: 5%;
+  margin-top: 60px;
+}
+/*My photo and description*/
+.intro {
+  overflow: auto;
+  padding: 30px 80px;
+  margin: 0px 15%;
+  display: inline-block;
+  text-align: center;
+  background-color: #ffdcdc;
+}
+.sub-intro {
+  margin: 15px 0px 0px;
+  vertical-align: middle;
+  padding: 25px 0;
+  font-size: 110%;
+}
+.commas {
+  font-family: 'Oswald', sans-serif;
+  font-size: 160%;
+}
+.profile {
+  vertical-align: middle;
+}
+hr {
+  margin: 45px auto;
+  width: 4%;
+  text-align: center;
+  border-style: dotted none none none;
+  border-width: 4px;
+  color: rgba(107, 1, 31, 0.6);
+}
+/*skills Section*/
+.skills {
+  background-color: #d4e2d4;
+  width: 100%;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.skill-row {
+  vertical-align: middle;
+  overflow: auto;
+  scroll-behavior: smooth;
+  text-align: center;
+  width: 30%;
+  padding: 15px;
+  margin: 20px 90px;
+  display: inline-block;
+  background-color: white;
+  /*box-shadow: 0 0 10px 10px #ecb390; */
+}
+.skill-img {
+  width: 35%;
+  height: auto;
+}
+.skill-heading {
+  font-family: 'Architects Daughter', cursive;
+  color: #822659;
+  font-size: 200%; margin: 20px auto;
+}
+.skill-title {
+  font-family: 'Architects Daughter', cursive;
+  margin: 10px 0 0 0;
+  color: #822659;
+  font-size: 260%;
+}
+.skill-content {
+  font-family: 'Cabin', sans-serif;
+  color: #b34180; font-size: 90%;
+}
+.extra {
+  color: #28527a;
+  margin-top: 15px;
+  font-family: 'Indie Flower', cursive;
+  font-size: 160%;
+  text-align: center;
+}
+/*Mail Me section*/
+.mail-me {
+  background-color: rgb(0, 175, 145);
+  margin: 0px 13%;
+  text-align: center;
+  padding: 60px 0px;
+}
+.mail-content {
+  font-size: 115%;
+  margin-bottom: 25px;
+  margin-top: -5px;
+  color: white;
+  font-family: cursive;
+}
+.cursive {
+  font-size: 130%;
+  font-family: 'Pacifico', cursive;
+}
+.mail-button {
+  text-decoration: none;
+  font-weight: bold;
+  padding: 10px 10px;
+  background-color: white;
+  margin-top: 20px;
+  font-size: 130%;
+  border-radius: 1px;
+  color: rgb(0, 175, 145);
+}
+/*Follow on Social media Links*/
+.social-media {
+  text-align: center;
+  background-color: #ccf2f4;
+  padding: 10px 0px;
+}
+.social-content {
+  margin: 5px;
+  font-family: 'Caveat', cursive;
+  font-size: 200%;
+}
+.soc-img {
+  width: 40px; height: 40px;
+  margin: 5px 20px;
+}
